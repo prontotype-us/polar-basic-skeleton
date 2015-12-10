@@ -3,5 +3,5 @@
 Quickly create a skeleton for a basic polar app:
 
 ```sh
-cp -R polar-basic-skeleton my-new-app
+./polar-basic-skeleton/clone.sh my-new-app
 ```
